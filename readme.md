@@ -1,1 +1,1 @@
-I am creating a website which will have a main index page with links to a few recipes.
+I am creating a website which will have a main index page with links to a few recipes. So far we have lasagna and shrimp scampi!
